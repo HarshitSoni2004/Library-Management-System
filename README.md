@@ -11,7 +11,7 @@ This is a command-line based Library Management System developed in Java. It all
 - Simple CLI menu-driven interface for interaction
 
 ## How to Run
-1. Compile all `.java` files:
+1. Compile all `LMS.java` files:
 2. Run the main class:
 3. Follow the on-screen menu to perform operations.
 
